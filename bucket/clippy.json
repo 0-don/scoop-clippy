@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/0-don/clippy/releases/download/v1.6.8/clippy_1.6.8_x64-setup.exe",
-      "hash": "3243477ecff578545999c4359904387bd58ab1c2aef9f0742c6e73be40c01768"
+      "hash": "6744a1f6768b4fd2a49d18adeef63af816843538fdb763e1cfc7ff7b3a37a475"
     }
   },
   "installer": {
