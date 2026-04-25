@@ -1,16 +1,16 @@
 {
-  "version": "1.6.5",
+  "version": "1.6.6",
   "description": "Clipboard Manager built with Rust {{DESCRIPTION}} Typescript",
   "homepage": "https://github.com/0-don/clippy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/0-don/clippy/releases/download/v1.6.5/clippy_1.6.5_x64-setup.exe",
-      "hash": "a5928cd7e400eb48309e00916db0f770d2929adb155ec424f2c66e73809a8215"
+      "url": "https://github.com/0-don/clippy/releases/download/v1.6.6/clippy_1.6.6_x64-setup.exe",
+      "hash": "2a1d0d092533ca54c6c3793efbb2cb0b23035edabdc138f86327caacad8efb67"
     }
   },
   "installer": {
-    "script": "Start-Process \"$dir\\clippy_1.6.5_x64-setup.exe\" -ArgumentList '/S' -Wait"
+    "script": "Start-Process \"$dir\\clippy_1.6.6_x64-setup.exe\" -ArgumentList '/S' -Wait"
   },
   "uninstaller": {
     "script": "Start-Process \"$env:LOCALAPPDATA\\clippy\\uninstall.exe\" -ArgumentList '/S' -Wait"
