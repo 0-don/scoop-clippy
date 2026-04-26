@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/0-don/clippy/releases/download/v1.6.9/clippy_1.6.9_x64-setup.exe",
-      "hash": "02a8248a00ca5602f7d47878b71704a046b1a9a3b2e35911686942bb98ca8733"
+      "hash": "28ad3ef0ae2c6f46af42156ac7632531e3d314743b0130f72a58916faf2cfb31"
     }
   },
   "installer": {
